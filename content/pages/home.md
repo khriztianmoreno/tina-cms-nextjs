@@ -48,5 +48,9 @@ blocks:
           color, font, or icon set.
     color: tint
     _template: features
+  - quote: 'Este man es el mejor, le debo unas salchipapas'
+    author: Jeff Bezos
+    color: primary
+    _template: testimonial
 ---
 
